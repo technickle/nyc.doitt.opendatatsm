@@ -50,8 +50,6 @@ Prioritizing and creating a schedule for initial and ongoing publication:  When 
 
 __Prioritizing initial and ongoing publication__ will entail balancing high value with data quality, data availability, and data readiness in setting forth a schedule for publication.  Each covered State entity shall create schedules and prioritize data publication in a timely manner and in accordance with guidelines set forth herein.  Agencies should assess and plan - accounting for time to: identify data, review and approve data, and prepare data for publication. 
 
-Prioritizing initial and ongoing publication will entail balancing high value with data quality, data availability, and data readiness in setting forth a schedule for publication.  Each covered State entity shall create schedules and prioritize data publication in a timely manner and in accordance with guidelines set forth herein.  Agencies should assess and plan - accounting for time to: identify data, review and approve data, and prepare data for publication. 
-
 **Figure 4 – Prioritization**
 ![Prioritization](http://nys-its.github.io/open-data-handbook/img/Prioritization.png "Prioritization")
 
