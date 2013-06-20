@@ -7,11 +7,11 @@ published: true
 
 #Public Policies
 
-Local Law 11, specifically § 23-502 d, requires that data sets must be available without registration requirement, license requirement, or usage restrictions, except as provided in Sections 6.1 through 6.4 below.
+Local Law 11, specifically § 23-502 d, requires that data sets must be available without registration requirement, license requirement, or usage restrictions, except as provided below.
 
 ##Explicit Identification of Public Use by Third Parties
 
-Notwithstanding Section 6.0 above, DoITT may require third party entities such as application developers to explicitly identify the source, version, and modifications made to a public data set, should they publicly re-publish it elsewhere or incorporate the public data set into an application. This is addressed through updated Terms of Use for the NYC OpenData portal.
+DoITT may require third party entities such as application developers to explicitly identify the source, version, and modifications made to a public data set, should they publicly re-publish it elsewhere or incorporate the public data set into an application. This is addressed through updated Terms of Use for the NYC OpenData portal.
 
 ##Terms of Use
 
