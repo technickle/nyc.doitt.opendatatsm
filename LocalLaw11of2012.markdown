@@ -9,7 +9,7 @@ Local Law 11 of 2012
 
 New York City Council voted on and passed this legislation on February 29, 2012. Mayor Bloomberg signed it into law on March 7, 2012. The text below has been formatted to enhance readability.
 
-**Local Law 11 of 2012 (previously Introduction 0029A-2010)**
+**Local Law 11 of 2012 (previously [Introduction 0029A-2010](http://legistar.council.nyc.gov/LegislationDetail.aspx?ID=649911&GUID=E650813B-B1E9-4E56-81BA-58261487DA4A))**
 
 _By Council Members Brewer, Fidler, Gentile, Gonzalez, James, Lander, Palma, Nelson, Lappin, Dromm, Garodnick, Reyna, Mealy, Vann, Jackson, Levin, Cabrera, Gennaro, Williams, Van Bramer, Rodriguez, Halloran and the Public Advocate (Mr. de Blasio)
 A Local Law to amend the administrative code of the city of New York, in relation to publishing open data._
