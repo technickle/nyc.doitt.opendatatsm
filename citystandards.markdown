@@ -167,7 +167,7 @@ Social Services
 Statistics
 Transportation
 Women's Issues</pre></div></div></span>
-</td></tr></table>
+</td></tr></tbody></table>
 
 4.2.2.2	Column Metadata
 
