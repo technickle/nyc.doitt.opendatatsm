@@ -1,2 +1,2 @@
-New York State Provisional Open Data Handbook
-http://nys-its.github.io/open-data-handbook/
+New York City Open Data Technical Standards Manual
+http://technickle.github.io/nyc.doitt.opendatatsm/
