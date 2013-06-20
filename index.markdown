@@ -14,4 +14,4 @@ The legislation additionally sets forth the following timeline:
 
 This document is the Technical Standards Manual (TSM) that defines the Citywide policies, standards, and guidelines required to support the legislation.
 
-![](/img/Legislative_Timeline_3.png)
+![](img/Legislative_Timeline_3.png)
