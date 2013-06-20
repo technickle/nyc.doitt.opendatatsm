@@ -27,7 +27,7 @@ The NYC OpenData portal supports the public downloading of data sets in the foll
     </thead>
     <tbody>
     	<tr>
-        	<td>[CSV](http://en.wikipedia.org/wiki/Comma-separated_values)</td><td>Text</td><td>Comma-separated values</td>
+        	<td><a href="http://en.wikipedia.org/wiki/Comma-separated_values">CSV</a></td><td>Text</td><td>Comma-separated values</td>
         </tr>
     </tbody>
 </table>
