@@ -29,19 +29,29 @@ The NYC OpenData portal supports the public downloading of data sets in the foll
     	<tr>
         	<td><a href="http://en.wikipedia.org/wiki/Comma-separated_values">CSV</a></td><td>Text</td><td>Comma-separated values</td>
         </tr>
-    </tbody>
+    	<tr>
+        	<td><a href="http://en.wikipedia.org/wiki/JavaScript_Object_Notation">JSON</a></td><td>Text</td><td>JavaScript Object Notation</td>
+        </tr>
+    	<tr>
+        	<td><a href="http://en.wikipedia.org/wiki/Portable_Document_Format">PDF</a></td><td>Binary</td><td>Portable Document Format</td>
+        </tr>
+        <tr>
+        	<td><a href="http://en.wikipedia.org/wiki/Resource_Description_Framework">RDF</a></td><td>Text</td><td>Resource Description Framework</td>
+        </tr>
+    	<tr>
+        	<td><a href="http://en.wikipedia.org/wiki/RDF_Site_Summary">RSS</a></td><td>Text</td><td>RDF Site Summary/Really Simple Syndication (Note: each row is represented as a separate item, but each item’s description field contains an HTML table with the column names and row values)</td>
+        </tr>
+    	<tr>
+        	<td><a href="http://en.wikipedia.org/wiki/Microsoft_Excel_file_format#File_formats">XLS</a></td><td>Binary</td><td>Microsoft Excel</td>
+        </tr>
+        <tr>
+        	<td><a href="http://en.wikipedia.org/wiki/XLSX">XLSX</a></td><td>Binary</td><td>Microsoft Excel Open XML</td>
+        </tr>
+        <tr>
+        	<td><a href="http://en.wikipedia.org/wiki/XML">XML</a></td><td>Text</td><td>Extensible Markup Language</td>
+        </tr>
+</tbody>
 </table>
-
-Type	Type	Description
-CSV	Text	Comma-separated values
-JSON	Text	JavaScript Object Notation
-PDF	Binary	Portable Document Format
-RDF	Text	Resource Description Framework
-RSS	Text	RDF Site Summary/Really Simple Syndication
-(Note: each row is represented as a separate item, but each item’s description field contains an HTML table with the column names and row values)
-XLS	Binary	Microsoft Excel
-XLSX	Binary	Microsoft Excel Open XML
-XML	Text	Extensible Markup Language
 
 In addition, some data sets may also have the following formats available:
 
