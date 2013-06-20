@@ -19,6 +19,19 @@ The NYC OpenData portal supports a generic API that permits access to all publis
 In 2009, the U.S. Government defined an open file format as “one that is platform independent, machine readable, and made available to the public without restrictions that would impede the re-use of that information.” 
 The NYC OpenData portal supports the public downloading of data sets in the following formats:
 
+<table>
+	<thead>
+    	<tr>
+    		<th>Type</th><th>Format</th><th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+    	<tr>
+        	<td>CSV</td><td>Text</td><td>Comma-separated values</td>
+        </tr>
+    </tbody>
+</table>
+
 Type	Type	Description
 CSV	Text	Comma-separated values
 JSON	Text	JavaScript Object Notation
