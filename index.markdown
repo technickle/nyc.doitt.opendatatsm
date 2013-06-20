@@ -12,9 +12,13 @@ Hello! We at the City of New York want to collaborate with you on our Open Data 
 
 We want your feedback as we continuously improve our service. Here are some options for providing input on our Technical Standards Manual:
 
-- 
+- Use the comments area at the bottom of each page. To make sure your ideas are clearly understood by others, please keep them on-topic and refrain from language that others might find offensive. (Be sure to see our terms of service, below.)
 - We are experimenting with [HyperComments](http://hypercomments.com/). Here is an example of an existing hypercomment. To comment on a particular section of text, highlight it, and then click the 'comment' button which appears.
 - If you are github user, you can fork our repository, make direct edits to the markdown files - or use an online tool like [prose.io](http://prose.io/) - and then issue a pull request.
+
+##Terms of Service
+
+By using this site, you agree to comply with the [NYC Social Media Customer Use Policy ("CUP")](http://www.nyc.gov/html/misc/html/social_media_policy.html) and that your comments, edits or other content that you create that fails to comply with the CUP may be deleted or removed by the site administrators without further notice to you. The contents of this site, whether they originate with the City or with registered users, is intended to be freely accessible and available for the purposes of collaborating to develop the City's open data policies and technical standards. No content appearing on this site, whether contributed by the City or by users, will be subject to copyright or other intellectual property protections. Only users who agree to these terms should register or use this site. If you have questions or concerns, please contact us.
 
 ##More Information
 
