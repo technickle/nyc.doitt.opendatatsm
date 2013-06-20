@@ -1,7 +1,7 @@
 ---
 layout: default
-previous: prepublication.html
-next: termsofuse.html
+previous: citystandards.html
+next: publicpolicies.html
 ---
 
 5.0	City Guidelines
