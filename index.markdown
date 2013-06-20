@@ -1,6 +1,6 @@
 ---
 layout: default
-next: governance.html
+next: definitions.html
 published: true
 ---
 
