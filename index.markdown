@@ -10,9 +10,11 @@ Hello! We at the City of New York want to collaborate with you on our Open Data 
 
 ##How to provide feedback
 
-We want your feedback as we continuously improve our service. Here are some options for providing input on our Technical Standards Manual:
+We want your feedback as we continuously improve our service, but please note that we do not allow complete anonymity. To make sure your ideas are clearly understood by others, please keep them on-topic and refrain from language that others might find offensive. (Be sure to see our terms of service, below.)
 
-- Use the comments area at the bottom of each page. To make sure your ideas are clearly understood by others, please keep them on-topic and refrain from language that others might find offensive. (Be sure to see our terms of service, below.)
+Here are some options for providing input on our Technical Standards Manual:
+
+- Use the comments area at the bottom of each page. 
 - We are experimenting with [HyperComments](http://hypercomments.com/). Here is an example of an existing hypercomment. To comment on a particular section of text, highlight it, and then click the 'comment' button which appears.
 - If you are github user, you can fork our repository, make direct edits to the markdown files - or use an online tool like [prose.io](http://prose.io/) - and then issue a pull request.
 
