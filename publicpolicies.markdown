@@ -16,9 +16,11 @@ DoITT may require third party entities such as application developers to explici
 ##Terms of Use
 
 The following Terms of Use apply to visitors to the NYC OpenData portal and application developers who obtain City data through this single web portal:
+
 By accessing data sets and feeds available through the NYC OpenData portal (or the "Site"), the user agrees to all of the [Terms of Use of NYC.gov](http://www.nyc.gov/html/misc/html/tou.html) as well as the [NYC.gov Privacy Policy](http://www.nyc.gov/privacy). The user also agrees to any additional terms of use defined by entities providing data or feeds through the Site. Entities providing data include, without limitation, agencies, bureaus, offices, departments and other discrete entities of the City of New York ("City"). Public data sets made available on the NYC OpenData portal are provided for informational purposes. The City does not warranty the completeness, accuracy, content, or fitness for any particular purpose or use of any public data set made available on the NYC OpenData portal, nor are any such warranties to be implied or inferred with respect to the public data sets furnished therein.
 
 The City is not liable for any deficiencies in the completeness, accuracy, content, or fitness for any particular purpose or use of any public data set, or application utilizing such data set, provided by any third party.
+
 Submitting City Agencies are the authoritative source of data available on NYC OpenData. These entities are responsible for data quality and retain version control of data sets and feeds accessed on the Site. Data may be updated, corrected, overwritten and/or refreshed at any time. The anticipated update frequency is indicated for each data set on the Site. Older versions of data sets will not be retained.
 
 ##Ensuring Continued Public Access to Data Sets
