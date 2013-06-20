@@ -5,6 +5,8 @@ next: definitions.html
 published: true
 ---
 
+#Background
+
 On March 7, 2012, Mayor Bloomberg signed [Local Law 11 of 2012](LocalLaw11of2012.html), which amends the administrative code to mandate that qualifying City-managed digital data be made available to the public-at-large through a single web portal. By September 2012, the City’s Department of Information Technology and Telecommunications (DoITT) is to prepare and publish a technical standards manual for City agencies, setting forth policies and standards for open data. 
 
 The legislation additionally sets forth the following timeline:
