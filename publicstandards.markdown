@@ -50,11 +50,20 @@ The NYC OpenData portal supports the public downloading of data sets in the foll
         <tr>
         	<td><a href="http://en.wikipedia.org/wiki/XML">XML</a></td><td>Text</td><td>Extensible Markup Language</td>
         </tr>
-</tbody>
+	</tbody>
 </table>
 
 In addition, some data sets may also have the following formats available:
 
-Type	Type	Description
-ZIP	Binary	Typically contains a shapefile set (SHP, SHX, DBF) (Geographic data sets only), or a collection of multiple files which are all part of the same data set.
-(Note: this is usually provided within a compressed archive)
+<table>
+	<thead>
+    	<tr>
+    		<th>Type</th><th>Media</th><th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+    	<tr>
+        	<td><a href="http://en.wikipedia.org/wiki/Zip_%28file_format%29">ZIP</a></td><td>Binary</td><td>Typically contains a shapefile set (SHP, SHX, DBF) (Geographic data sets only), or a collection of multiple files which are all part of the same data set. (Note: this is usually provided within a compressed archive)</td>
+        </tr>
+	</tbody>
+</table>
