@@ -1,3 +1,9 @@
+---
+layout: default
+previous: index.html
+next: definitions.html
+---
+
 Local Law 24 of 1995 established DoITT as “New York City’s information technology and telecommunications agency.” 
 
 Chapter 48 §1072(a) of the [New York City Charter](http://www.nyc.gov/html/charter/downloads/pdf/citycharter2009.pdf) established the authority of DoITT by assigning powers and duties “to plan, formulate, coordinate and advance information technology and telecommunications policies for the city.” 
