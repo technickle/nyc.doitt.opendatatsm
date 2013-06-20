@@ -1,6 +1,6 @@
 ---
 layout: default
-previous: termsofuse.html
+previous: publicstandards.html
 published: true
 ---
 
