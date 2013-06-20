@@ -5,9 +5,9 @@ next: cityguidelines.html
 published: true
 ---
 
-4.0	City Standards
+#City Standards
 
-4.1	Integration Architecture
+##Integration Architecture
 
 Delivery of data from back-end systems to the NYC OpenData portal will take place though an architecture which permits de-coupling and enables a layer of abstraction. This architecture leverages infrastructural investments and technical capabilities that either already exist within Agencies or would require minimal effort to implement.
 
@@ -47,21 +47,21 @@ Please refer to the NYC OpenData portal’s [import specifications](http://dev.s
 
 Data values must not contain elements or markup used for presentation, nor should they contain interpreted or raw application source code. For example, HTML formatting tags such as &lt;script&gt;, &lt;table&gt;, &lt;tr&gt;, &lt;td&gt;, or &lt;br&gt; are not permitted.
 
-4.2.1.3	Geospatial Data
+####Geospatial Data
 
 Geospatial data must be published in the Web Mercator coordinate system (WGS 84/EPSG:3857) to make the data easy to use with popular online mapping services. Although this is the most useful coordinate system for web-based mapping, Web Mercator as a geographic coordinate system is not a projection, and therefore the measurement of distance and area on such data will not be as accurate as a projected coordinate system.
 
 Agencies may also make their data available in the New York State Plane, Long Island Zone, coordinate system (FIPS Zone 3104/EPSG:2263). If the data is hosted directly through the OpenData platform, it will be automatically converted to Web Mercator.
 
-4.2.1.4	Geocoding
+####Geocoding
 
 Data sets providing information on location in tabular format can be automatically geocoded by the OpenData platform. 
 - Address – single column that includes the building number, street name, city, state and zip code.
 - Intersection – single column with the cross streets concatenated by an ampersand (&) or two separate columns (e.g., cross street 1 and cross street 2).
 
-4.2.2	Metadata
+###Metadata
 
-4.2.2.1	Data Set Metadata
+####Data Set Metadata
 
 For each data set published, the providing Agency must, at a minimum, provide values for all of the metadata elements as defined in the latest version of the DublinCore Metadata Element Set. In addition, the Agency must provide the metadata element” frequency” which must correspond to a value contained in the DublinCore Collection Description Frequency Vocabulary.
 The following table represents a list of required metadata elements for data sets as of the publication of this technical standard:
@@ -91,74 +91,74 @@ The following table represents a list of required metadata elements for data set
 	</tbody>
 </table>
 
-4.2.2.2	Column Metadata
+####Column Metadata
 
 Although metadata for columns within a data set is not required, it should be provided when the column identifiers do not provide a user with enough information to use it effectively. For example, the metadata for a column containing restaurant inspection letter grades should indicate the possible values and their meanings.
 
-4.2.2.3	Standards for Data Citation
+####Standards for Data Citation
 
 An Agency should include any preferred citation for a data set in the data set’s metadata or supporting documentation.
 
-4.3	Data Set Publishing
+##Data Set Publishing
 
 The Agency ODC should work closely with DoITT during the initial data set publishing process to identify the best technical approach to automate delivery to the public. The following mechanisms are supported:
 
-4.3.1	Database Management System (DBMS) Access
+###Database Management System (DBMS) Access
 
 For Agencies that require DoITT assistance to extract data from back-office systems, the Agency must provide read-only DBMS credentials for the necessary databases, tables, stored procedures, and/or views. The credentials should not permit access to tables, columns, or other entities that contain information that is not included within the definition of public data set because it is exempt from disclosure.
 If the Agency operates a data warehouse, it should provide access to extract public data sets from the warehouse rather than the source operational system.
 
-4.3.2	File Transfers
+###File Transfers
 
 Agencies may choose to publish files to a location on the City intranet that DoITT staff or DoITT-managed automation tools can access. Specific details, such as location, formats, naming conventions, and sizing, should be discussed with DoITT.
 
-4.3.3	Enterprise Service Bus
+###Enterprise Service Bus
 
 Agencies may leverage DoITT’s Enterprise Service Bus (DataShare) to publish public data sets. This option may be especially desirable if DataShare already automatically transfers the data set. 
 
-4.3.4	Self-Hosting
+###Self-Hosting
 
 In any exceptional case in which transaction volumes, data structure, technical barriers, or resource limits prevent hosting a public data set on the NYC Open Data portal itself, the NYC OpenData portal must provide a direct link to the public data set that is hosted elsewhere so that the data set is accessible to the public through the NYC OpenData portal. In such an exceptional case, an Agency may self-host the relevant public data set, provided that the public data set is accessible to the public through the link on the NYC OpenData portal according to following standards: 
 - The agency must provide a single, unique, publicly accessible URL for each data set along with the data set-level metadata. This information will be made available in the NYC OpenData portal’s catalog of data sets. It is strongly preferred that the URL be the location of the data set, and not an intermediate web page.
 - The data set must be machine-readable and in one of the formats listed in the Public Standards section of this document. The Portable Document Format (PDF) is not permitted.
 - The data set may be encapsulated in a single archive file (and optionally compressed) if it consists of multiple related files.
 
-4.4	Maintenance
+##Maintenance
 
 Data sets published on the NYC OpenData portal must be maintained for accuracy, timeliness, and accessibility, as set forth below.
 
-4.4.1	Data Set Content Updates
+###Data Set Content Updates
 
 Agency ODCs are responsible for identifying an update frequency for each public data set as an element in its data set metadata, and for ensuring that their data set content updates are maintained and published according to the data set’s identified schedule or to the extent that the agency regularly maintains or updates the public data set.
 
-4.4.2	Structural Changes (Fields, Data Types)
+###Structural Changes (Fields, Data Types)
 
 The ODC or Agency liaison must not modify existing data structure during normal updates to the data set. The number of data elements per record, name, format, and order of the data elements must be consistent with the originally-published version. The Agency ODC should notify DoITT prior to any structural changes to data sets.
 
-4.4.3	Content Support
+###Content Support
 
 DoITT will contact the Agency ODC to obtain feedback or a direct answer to comments or inquiries from the public that relate to data set contents or supporting documentation. The Agency will provide DoITT with an expected timeframe to resolve the support inquiry as soon as possible. The Agency must then notify DoITT when the updates or corrections are ready for publication. 
 An Agency that proactively identifies defects or improvements related to its data set content or supporting documentation must notify DoITT prior to publication of any changes.
 
-4.5	Ownership, Responsibility, and Retention
+##Ownership, Responsibility, and Retention
 
-4.5.1	Ownership 
+###Ownership 
 
 Agencies retain ownership over the data sets that they submit. All data and data sets remain the property of the originating Agency and public users acquire no ownership rights to Agency data or data sets. 
 The data sets published on NYC.gov or the NYC OpenData portal become a public resource available to anyone with access to the Internet. The public use of the data sets may include development of applications. In this case, the developers retain all intellectual property ownership in their applications, excluding the Agency data itself, whose ownership continues to reside with the Agency. 
 
-4.5.2	Responsibility 
+###Responsibility 
 
 The Agency that owns the data set is responsible for all aspects of the quality, integrity, and security of the data set contents, as detailed below, and as subject to limitations on liability contained in Local Law 11. Agencies do not relinquish control of their data to DoITT when the data set is submitted for publication on the NYC OpenData portal. 
 
 Agencies are responsible for ensuring that all of their submitted data has been reviewed by appropriate Agency management for confidentiality, privacy, security, and all other content limitation issues consistent with Local Law 11 before the data is submitted for publication. The Agency supplying the data is also responsible for maintaining records of information privacy status and public-disclosure requirements.
 The Agency is responsible for updating its data according to the frequency identified in the data set metadata or to the extent that the agency regularly maintains or updates the public data set.
 
-4.5.3	Retention 
+###Retention 
 
 As the authoritative source of the information, submitting Agencies retain version control of public data sets and must comply with record retention schedules and requirements outlined by the New York City Department of Records and Information Services. 
 
-4.6	Exemption from Public Access 
+##Exemption from Public Access 
 
 Public data to be made available per Local Law 11 does not include any data set to which an Agency may deny access pursuant to the Freedom of Information Law (FOIL) or any other provision of a federal or state law, rule or regulation or local law.  (That notwithstanding, by itself, Local Law 11 does not prohibit Agencies from releasing such FOIL-deniable data.)
 Records deniable under FOIL are those that:
