@@ -28,8 +28,11 @@ OLAP: Online Analytical Processing data storage – typically used for reporting
 OLTP: Online Transactional Processing data storage – typically used for data entry and retrieval. Data sets are typically highly normalized, and information therein may be routinely extracted, transformed, and loaded into OLAP systems.
 
 4.2	Data Sets
+
 4.2.1	Data Content
+
 4.2.1.1	Data Types
+
 Data sets may contain the following data types:
 - Numbers, money, and percentages;
 - Dates/times (ISO-8601 preferred);
