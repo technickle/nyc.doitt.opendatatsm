@@ -45,7 +45,7 @@ Please refer to the NYC OpenData portal’s [import specifications](http://dev.s
 
 4.2.1.2	Format and Code Elements
 
-Data values must not contain elements or markup used for presentation, nor should they contain interpreted or raw application source code. For example, HTML formatting tags such as < script >, < table >, < tr >, < td >, or < br > are not permitted.
+Data values must not contain elements or markup used for presentation, nor should they contain interpreted or raw application source code. For example, HTML formatting tags such as <pre>&lt;script&gt;, &lt;table&gt;, &lt;tr&gt;, &lt;td&gt;, or &lt;br&gt;</pre> are not permitted.
 
 4.2.1.3	Geospatial Data
 
