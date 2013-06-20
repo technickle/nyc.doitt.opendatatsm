@@ -21,17 +21,17 @@ The diagram below represents a logical architecture for the integration capabili
 Figure 1 – Logical Integration Architecture
 ![NYC Open Data Logical Architecture 20120313.png](img/NYC%20Open%20Data%20Logical%20Architecture%2020120313.png)
 
-ETL: Extract-Transform-Load – a process by which data is extracted from a source system, manipulated as required by business rules, and then loaded into another system.
+**ETL**: Extract-Transform-Load – a process by which data is extracted from a source system, manipulated as required by business rules, and then loaded into another system.
 
-OLAP: Online Analytical Processing data storage – typically used for reporting and data mining capabilities. Data sets are typically de-normalized, and information therein may be routinely extracted from OLTP systems.
+**OLAP**: Online Analytical Processing data storage – typically used for reporting and data mining capabilities. Data sets are typically de-normalized, and information therein may be routinely extracted from OLTP systems.
 
-OLTP: Online Transactional Processing data storage – typically used for data entry and retrieval. Data sets are typically highly normalized, and information therein may be routinely extracted, transformed, and loaded into OLAP systems.
+**OLTP**: Online Transactional Processing data storage – typically used for data entry and retrieval. Data sets are typically highly normalized, and information therein may be routinely extracted, transformed, and loaded into OLAP systems.
 
-4.2	Data Sets
+##Data Sets
 
-4.2.1	Data Content
+###Data Content
 
-4.2.1.1	Data Types
+####Data Types
 
 Data sets may contain the following data types:
 - Numbers, money, and percentages;
@@ -43,7 +43,7 @@ Data sets may contain the following data types:
 
 Please refer to the NYC OpenData portal’s [import specifications](http://dev.socrata.com/publisher/import-data-types) for details on formatting and parsing of the above data types.
 
-4.2.1.2	Format and Code Elements
+####Format and Code Elements
 
 Data values must not contain elements or markup used for presentation, nor should they contain interpreted or raw application source code. For example, HTML formatting tags such as &lt;script&gt;, &lt;table&gt;, &lt;tr&gt;, &lt;td&gt;, or &lt;br&gt; are not permitted.
 
