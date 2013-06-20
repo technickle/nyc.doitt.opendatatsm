@@ -2,19 +2,20 @@
 layout: default
 previous: publicpolicies.html
 next: LocalLaw11of2012.html
+published: true
 ---
 
-7.0	Public Standards
+#Public Standards
 
-7.1	Web Application
+##Web Application
 
 The NYC OpenData portal supports most modern web browsers. The web application permits the listing, viewing, exporting, embedding, filtering, visualizing, personalizing, commenting on, and rating of public data sets.
 
-7.2	Application Programming Interface (API)
+##Application Programming Interface (API)
 
 The NYC OpenData portal supports a generic API that permits access to all published data sets in a similar manner. The API is based upon the Socrata Open Data API (SODA).
 
-7.3	Download Formats
+##Download Formats
 
 In 2009, the U.S. Government defined an open file format as “one that is platform independent, machine readable, and made available to the public without restrictions that would impede the re-use of that information.” 
 The NYC OpenData portal supports the public downloading of data sets in the following formats:
