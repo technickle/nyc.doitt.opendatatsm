@@ -45,7 +45,7 @@ The ODC should be well-connected to or a part of the following Agency teams, in 
 
 ####Initial Compliance (March 7, 2013)
 
-Local Law 11 requires that on or before March 7, 2013, all qualifying data sets currently on NYC.gov must be made available via a single web portal.
+[Local Law 11 of 2012](LocalLaw11of2012.html) requires that on or before March 7, 2013, all qualifying data sets currently on NYC.gov must be made available via a single web portal.
 If an Agency cannot make available all of its public data sets on the NYC OpenData portal by March 7, 2013, that Agency shall clearly and concisely state the reasons why any applicable data set cannot be made available, and the date by which the Agency believes that it will be available on the NYC OpenData portal.
 
 ####Agency Compliance Plan (September 9, 2013)
