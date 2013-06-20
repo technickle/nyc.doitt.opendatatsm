@@ -8,6 +8,6 @@ published: true
 
 ##How to provide feedback
 We invite feedback in any of the following ways:
-- nest
-- 2-nest
+- Use the Disqus commenting tool at the bottom of each page. - like this
+- test
 - nest
