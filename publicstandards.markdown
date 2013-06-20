@@ -22,12 +22,12 @@ The NYC OpenData portal supports the public downloading of data sets in the foll
 <table>
 	<thead>
     	<tr>
-    		<th>Type</th><th>Format</th><th>Description</th>
+    		<th>Type</th><th>Media</th><th>Description</th>
         </tr>
     </thead>
     <tbody>
     	<tr>
-        	<td>CSV</td><td>Text</td><td>Comma-separated values</td>
+        	<td>[CSV](http://en.wikipedia.org/wiki/Comma-separated_values)</td><td>Text</td><td>Comma-separated values</td>
         </tr>
     </tbody>
 </table>
