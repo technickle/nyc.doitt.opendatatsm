@@ -1,6 +1,6 @@
 ---
 layout: default
-next: definitions.html
+next: background.html
 published: true
 ---
 
