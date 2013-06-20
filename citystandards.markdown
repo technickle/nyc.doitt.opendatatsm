@@ -18,7 +18,7 @@ A de-coupled architecture provides the following benefits:
 The diagram below represents a logical architecture for the integration capabilities.
  
 Figure 1 – Logical Integration Architecture
-![NYC Open Data Logical Architecture 20120313.png](/img/NYC%20Open%20Data%20Logical%20Architecture%2020120313.png)
+![NYC Open Data Logical Architecture 20120313.png](img/NYC%20Open%20Data%20Logical%20Architecture%2020120313.png)
 
 ETL: Extract-Transform-Load – a process by which data is extracted from a source system, manipulated as required by business rules, and then loaded into another system.
 
