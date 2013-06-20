@@ -1,8 +1,8 @@
 ---
 layout: default
 previous: termsofuse.html
+published: true
 ---
-
 
 EXECUTIVE ORDER 95
 =========
