@@ -81,8 +81,11 @@
 		{% if page.next %}
 			<a href="{{ page.next }}" class="next-page right button success">Next</a>
 		{% endif %}
+		{% if page.edit %}
+			<a href="{{ page.edit }}" class="center button">Edit this page</a>
+		{% endif %}
 		{% if page.previous %}
-			<a href="{{ page.previous }}" class="previous-page right button secondary">Previous</a>
+			<a href="{{ page.previous }}" class="previous-page left button secondary">Previous</a>
 		{% endif %}
 		<div id="disqus_thread"></div>
     	<script type="text/javascript">
