@@ -4,7 +4,7 @@ h3 { font-size: 1.25em; }
 h4 { font-size: 1em; }
 
 .top-bar, .contain-to-grid, .global-navigation li a {
-	color: black !important;
+	color: #000000 !important;
 	background-color: white !important;
 }
 
@@ -13,7 +13,7 @@ h4 { font-size: 1em; }
 }
 
 .global-navigation li a {
-	color: black;
+	color: #000000;
     font-weight: normal !important;
 }
 
