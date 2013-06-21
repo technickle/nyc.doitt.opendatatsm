@@ -4,11 +4,11 @@ h3 { font-size: 1.25em; }
 h4 { font-size: 1em; }
 
 .top-bar, .contain-to-grid, .global-navigation li a {
-	background-color: #002d56 !important;
+	background-color: white !important;
 }
 
 .global-navigation li a.current {
-	background-color: #184064 !important;
+	background-color: gainsboro !important;
 }
 
 .global-navigation li a {
@@ -51,6 +51,7 @@ h4 { font-size: 1em; }
 
 footer {
 	background: #aaa;
+	margin: 10px 10 10 10;
 }
 
 
