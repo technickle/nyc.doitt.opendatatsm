@@ -9,7 +9,7 @@ h4 { font-size: 1em; }
 }
 
 .global-navigation li a.current {
-	background-color: gainsboro !important;
+	background-color: white !important;
 }
 
 .global-navigation li a {
