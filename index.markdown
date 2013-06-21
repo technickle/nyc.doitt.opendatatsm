@@ -28,7 +28,7 @@ You can use the navigation menu at the top of the page to find the same sections
 
 We want your feedback as we continuously improve our service, but please note that we do not allow complete anonymity. To make sure your ideas are clearly understood by others, please keep them on-topic and refrain from language that others might find offensive. (Be sure to see our terms of service, below.)
 
-Here are some options for providing input on our Technical Standards Manual:
+Here are some options for providing input to the TSM:
 
 - (coming soon) Use the 'edit this page' button at the bottom of each page.
 - Use the comments area at the bottom of each page.
