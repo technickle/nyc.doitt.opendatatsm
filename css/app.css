@@ -4,6 +4,7 @@ h3 { font-size: 1.25em; }
 h4 { font-size: 1em; }
 
 .top-bar, .contain-to-grid, .global-navigation li a {
+	color: black !important;
 	background-color: white !important;
 }
 
@@ -50,7 +51,8 @@ h4 { font-size: 1em; }
 }
 
 footer {
-	background: #333;
+	color: white
+    background-color: #333;
 	margin: 10px 10 10 10;
 }
 
@@ -61,10 +63,10 @@ footer ul {
 }
 
 footer ul a {
-	color: #FFF;
+	color: #F9D053;
 	text-decoration: underline;
 }
 
 footer ul a:hover {
-	color: #FFF;
+	color: #F9D053;
 }
