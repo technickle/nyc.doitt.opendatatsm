@@ -78,14 +78,14 @@
 <div class="row">
 	<div class="large-12 columns">
 		{{content}}
-		{% if page.next %}
-			<a href="{{ page.next }}" class="next-page right button success">Next</a>
+		{% if page.previous %}
+			<a href="{{ page.previous }}" class="previous-page small left button secondary">Previous</a>
 		{% endif %}
 		{% if page.edit %}
-			<a href="{{ page.edit }}" class="center button">Edit this page</a>
+			<a href="{{ page.edit }}" class="small middle button secondary">Edit this page</a>
 		{% endif %}
-		{% if page.previous %}
-			<a href="{{ page.previous }}" class="previous-page left button secondary">Previous</a>
+		{% if page.next %}
+			<a href="{{ page.next }}" class="next-page small right button secondary">Next</a>
 		{% endif %}
 		<div id="disqus_thread"></div>
     	<script type="text/javascript">
