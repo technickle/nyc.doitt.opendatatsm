@@ -30,9 +30,10 @@ We want your feedback as we continuously improve our service, but please note th
 
 Here are some options for providing input on our Technical Standards Manual:
 
-- Use the comments area at the bottom of each page. 
-- We are experimenting with [HyperComments](http://hypercomments.com/). Here is an example of an existing hypercomment. To comment on a particular section of text, highlight it, and then click the 'comment' button which appears.
-- If you are use Github, you can fork our repository, make direct edits to the markdown files - or use an online tool like [prose.io](http://prose.io/) - and then issue a pull request.
+- (coming soon) Use the 'edit this page' button at the bottom of each page.
+- Use the comments area at the bottom of each page.
+- (coming soon) We are experimenting with [HyperComments](http://hypercomments.com/). Here is an example of an existing hypercomment. To comment on a particular section of text, highlight it, and then click the 'comment' button which appears.
+- If you are familiar with Github, fork our repository, make direct edits to the markdown files - or use an online tool like [prose.io](http://prose.io/), and then issue a pull request.
 
 ##Terms of Service
 
