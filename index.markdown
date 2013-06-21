@@ -42,4 +42,4 @@ By using this site, you agree to comply with the [NYC Social Media Customer Use 
 
 This site, along with the [NYC Open Data portal](http://nyc.gov/data), is managed by the [NYC Department of Information Technology & Telecommunications](http://nyc.gov/doitt) Advanced Technologies team. That's a long way of saying we're a bunch of people who are unlocking government data. Although it probably will be available, we can't guarantee that this site is available at all times.
 
-Special thanks to the [New York State Information Technology Services](http://www.governor.ny.gov/press/06132013-open-data-guidelines) and the [White House Office of Science & Technology Policy](http://www.whitehouse.gov/blog/2013/05/16/introducing-project-open-data) who paved the way.
+Special thanks to [New York State Information Technology Services](http://www.governor.ny.gov/press/06132013-open-data-guidelines) and the [White House Office of Science & Technology Policy](http://www.whitehouse.gov/blog/2013/05/16/introducing-project-open-data) who paved the way.
