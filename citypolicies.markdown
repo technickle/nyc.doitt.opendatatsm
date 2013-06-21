@@ -3,6 +3,7 @@ layout: default
 previous: definitions.html
 next: citystandards.html
 published: true
+edit: "http://prose.io/"
 ---
 
 #City Policies
