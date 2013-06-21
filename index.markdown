@@ -12,7 +12,7 @@ Hello! We at the City of New York want to collaborate with you on our Open Data 
 
 There's a lot of information in the TSM, so we broke it up into sections to make it easier to read and provide feedback on each topic:
 
-<ul class="button-group">
+<ul class="button-group even-7">
 	<li><a href="background.html" class="small button">Background</a></li>
 	<li><a href="defintions.html" class="small button">Definitions</a></li>
    	<li><a href="citypolicies.html" class="small button">City Policies</a></li>
