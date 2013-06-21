@@ -1042,7 +1042,7 @@ a {
   text-decoration: none;
   line-height: inherit; }
   a:hover, a:focus {
-    color: dodgerblue; }
+    color: dodger; }
   a img {
     border: none; }
 
@@ -2711,7 +2711,7 @@ form.custom {
     width: 100%;
     height: auto;
     display: block;
-    background: #FFFFFF;
+    background: #0101DF;
     font-size: 16px;
     margin: 0; }
   .top-bar-section .divider,
