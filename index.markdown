@@ -13,13 +13,13 @@ Hello! We at the City of New York want to collaborate with you on our Open Data 
 There's a lot of information in the TSM, so we broke it up into sections to make it easier to read and provide feedback on each topic:
 
 <ul class="button-group">
-	<li><a href="background.html">Background</a></li>
-	<li><a href="defintions.html">Definitions</a></li>
-   	<li><a href="citypolicies.html">City Policies</a></li>
-	<li><a href="publicpolicies.html">Public Policies</a></li>
-	<li><a href="citystandards.html">City Standards</a></li>
-	<li><a href="publicstandards.html">Public Standards</a></li>
-	<li><a href="cityguidelines.html">City Guidelines</a></li>
+	<li><a href="background.html" class="small button">Background</a></li>
+	<li><a href="defintions.html" class="small button">Definitions</a></li>
+   	<li><a href="citypolicies.html" class="small button">City Policies</a></li>
+	<li><a href="publicpolicies.html" class="small button">Public Policies</a></li>
+	<li><a href="citystandards.html" class="small button">City Standards</a></li>
+	<li><a href="publicstandards.html" class="small button">Public Standards</a></li>
+	<li><a href="cityguidelines.html" class="small button">City Guidelines</a></li>
 </ul>
 
 There's also a copy of [Local Law 11 of 2012](LocalLaw11of2012.html), which serves as the foundation for all of the information here.
