@@ -61,6 +61,13 @@ footer {
 	font-size: 62.5%;
 }
 
+footer a {
+	color: #F9D053;
+}
+
+footer a:hover {
+	color: white;
+}
 
 footer ul {
 	list-style: none;
