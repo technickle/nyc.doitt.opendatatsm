@@ -62,6 +62,7 @@ footer {
 }
 
 footer a {
+    float: right;
 	color: #F9D053;
 }
 
