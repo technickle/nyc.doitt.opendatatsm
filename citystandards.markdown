@@ -1,8 +1,8 @@
 ---
+published: true
 layout: default
 previous: citypolicies.html
 next: cityguidelines.html
-published: true
 ---
 
 #City Standards
@@ -160,7 +160,7 @@ As the authoritative source of the information, submitting Agencies retain versi
 
 ##Exemption from Public Access 
 
-Public data to be made available per Local Law 11 does not include any data set to which an Agency may deny access pursuant to the Freedom of Information Law (FOIL) or any other provision of a federal or state law, rule or regulation or local law.  (That notwithstanding, by itself, Local Law 11 does not prohibit Agencies from releasing such FOIL-deniable data.)
+Public data to be made available per [Local Law 11 of 2012](LocalLaw11of2012.html) does not include any data set to which an Agency may deny access pursuant to the Freedom of Information Law (FOIL) or any other provision of a federal or state law, rule or regulation or local law.  (That notwithstanding, by itself, Local Law 11 does not prohibit Agencies from releasing such FOIL-deniable data.)
 Records deniable under FOIL are those that:
 (a)	are specifically exempted from disclosure by state or federal statute;
 (b)	if disclosed would result in an unwarranted invasion of personal privacy; 
