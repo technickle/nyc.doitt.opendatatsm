@@ -1,7 +1,7 @@
 ---
+published: true
 layout: default
 next: background.html
-published: true
 ---
 
 #NYC OpenData Technical Standards Manual (TSM)
@@ -14,7 +14,7 @@ There's a lot of information in the TSM, so we broke it up into sections to make
 
 <div class="row" style="text-align: center">
 	<a href="background.html" class="small button secondary">Background</a>
-	<a href="defintions.html" class="small button secondary">Definitions</a>
+	<a href="definitions.html" class="small button secondary">Definitions</a>
 	<a href="citypolicies.html" class="small button secondary">City Policies</a>
 	<a href="citystandards.html" class="small button secondary">City Standards</a>
 	<a href="cityguidelines.html" class="small button secondary">City Guidelines</a>
