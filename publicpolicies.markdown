@@ -1,13 +1,13 @@
 ---
+published: true
 layout: default
 previous: cityguidelines.html
 next: publicstandards.html
-published: true
 ---
 
 #Public Policies
 
-Local Law 11, specifically § 23-502 d, requires that data sets must be available without registration requirement, license requirement, or usage restrictions, except as provided below.
+[Local Law 11 of 2012](LocalLaw11of2012.html), specifically § 23-502 d, requires that data sets must be available without registration requirement, license requirement, or usage restrictions, except as provided below.
 
 ##Explicit Identification of Public Use by Third Parties
 
