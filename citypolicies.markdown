@@ -1,14 +1,14 @@
 ---
+published: true
 layout: default
 previous: definitions.html
 next: citystandards.html
-published: true
 edit: "http://prose.io/"
 ---
 
 #City Policies
 
-In accordance with Local Law 11, DoITT has established the following policies. Citywide open data policies apply to all City Agencies as defined by this law.
+In accordance with [Local Law 11 of 2012](LocalLaw11of2012.html), DoITT has established the following policies. Citywide open data policies apply to all City Agencies as defined by this law.
 
 ##Governance and Oversight
 
@@ -18,7 +18,7 @@ DoITT must designate a Chief Open Platform Officer (COPO). The COPO will act as 
 - Oversee the operation and ongoing evolution of the City's Open Data program, and manage DoITT's Open Data team;
 - Engage with Agency Open Data Coordinators (as described below) and with executive leadership to strategically plan, and provide support for, the publishing of data sets;
 - Coordinate the delivery of transactional services and the development of related developer ecosystems;
-- Publish the annual Compliance Plan (as mandated by Local Law 11);
+- Publish the annual Compliance Plan (as mandated by [Local Law 11 of 2012](LocalLaw11of2012.html));
 - Determine, operationalize, and support the public engagement strategy, including outreach and public inquiries;
 - Collaborate with other local, state, and federal government entities on open government strategies and data specifications; and
 - Ensure the appropriate governance and technical controls exist as required by the City's Chief Information Security Officer.
