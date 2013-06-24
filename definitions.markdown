@@ -1,4 +1,5 @@
 ---
+published: true
 layout: default
 previous: background.html
 next: citypolicies.html
@@ -6,7 +7,7 @@ next: citypolicies.html
 
 # Definitions
 
-On this site, several terms have specific meanings as defined in Local Law 11 of 2012. These, as well as other commonly used terms, are listed on this page. When a term is defined in the law, it is so indicated.
+On this site, several terms have specific meanings as defined in [Local Law 11 of 2012](LocalLaw11of2012.html). These, as well as other commonly used terms, are listed on this page. When a term is defined in the law, it is so indicated.
 
 ## Agency
 
