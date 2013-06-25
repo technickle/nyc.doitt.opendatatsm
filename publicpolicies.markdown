@@ -3,6 +3,7 @@ published: true
 layout: default
 previous: cityguidelines.html
 next: publicstandards.html
+edit: "http://prose.io/#technickle/nyc.doitt.opendatatsm/edit/gh-pages/publicpolicies.markdown"
 ---
 
 #Public Policies
