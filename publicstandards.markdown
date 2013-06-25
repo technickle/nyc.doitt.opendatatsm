@@ -1,8 +1,8 @@
 ---
+published: true
 layout: default
 previous: publicpolicies.html
 next: LocalLaw11of2012.html
-published: true
 ---
 
 #Public Standards
@@ -13,7 +13,7 @@ The NYC OpenData portal supports most modern web browsers. The web application p
 
 ##Application Programming Interface (API)
 
-The NYC OpenData portal supports a generic API that permits access to all published data sets in a similar manner. The API is based upon the Socrata Open Data API (SODA).
+The NYC OpenData portal supports a generic API that permits access to all published data sets in a similar manner. The API is based upon the [Socrata Open Data API (SODA)](http://dev.socrata.com/consumers/getting-started).
 
 ##Download Formats
 
