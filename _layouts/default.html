@@ -61,18 +61,25 @@
 <!-- end banner row -->
 
 <div class="row">
-	<div class="large-12 columns">
+	<div class="small-3 columns">
 		{{content}}
 		{% if page.previous %}
 			<a href="{{ page.previous }}" class="previous-page small left button secondary">Previous</a>
 		{% endif %}
+	</div>
+	<div class="small-6 columns">
 		{% if page.edit %}
-			<a href="{{ page.edit }}" class="small middle button secondary">Edit this page</a>
+			<a href="{{ page.edit }}" class="small middle button secondary">Suggest Changes</a>
 		{% endif %}
+	</div>
+	<div class="small-3 columns">
 		{% if page.next %}
 			<a href="{{ page.next }}" class="next-page small right button secondary">Next</a>
 		{% endif %}
-		<div id="disqus_thread"></div>
+	</div>
+</div>
+<div class="row">
+	<div id="disqus_thread"></div>
     	<script type="text/javascript">
 	        var disqus_shortname = 'githubiotsmtest'; 
         	(function() {
@@ -83,7 +90,6 @@
 		</script>
 		<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 		<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-	</div>
 </div>
 
 <footer role="footer">
