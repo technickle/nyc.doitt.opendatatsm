@@ -3,6 +3,7 @@ published: true
 layout: default
 previous: background.html
 next: citypolicies.html
+edit: "http://prose.io/#technickle/nyc.doitt.opendatatsm/edit/gh-pages/definitions.markdown"
 ---
 
 # Definitions
