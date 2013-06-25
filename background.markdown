@@ -1,8 +1,9 @@
 ---
+published: true
 layout: default
 previous: index.html
 next: definitions.html
-published: true
+edit: "http://prose.io/#technickle/nyc.doitt.opendatatsm/edit/gh-pages/background.markdown"
 ---
 
 #Background
