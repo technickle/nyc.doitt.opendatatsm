@@ -32,10 +32,10 @@ We want your feedback as we continuously improve our service, but please note th
 
 Here are some options for providing input to the TSM:
 
-- Use the comments area at the bottom of each page. A [Disqus](https://disqus.com/), [Facebook](https://facebook.com/), [Twitter](https://twitter.com/), or [Google](https://accounts.google.com/ServiceLogin?hl=en) account is required.
+- Use the comments area at the bottom of each page. A free [Disqus](https://disqus.com/), [Facebook](https://facebook.com/), [Twitter](https://twitter.com/), or [Google](https://accounts.google.com/ServiceLogin?hl=en) account is required.
 - (coming soon) We are experimenting with [HyperComments](http://hypercomments.com/). Here is an example of an existing hypercomment. To comment on a particular section of text, highlight it, and then click the 'comment' button which appears.
-- (coming soon) Use the <a href="#" class="tiny button secondary">Suggest Changes</a> button at the bottom of each page. A [Github](https://github.com/) account is required.
-- Finally, you prefer to work with your own full copy, fork our repository, make direct edits to the markdown files - or use an online tool like [prose.io](http://prose.io/) - and then issue a pull request. A [Github](https://github.com/) account is required.
+- (coming soon) Use the &quot;Suggest Changes&quot; button near the bottom of each page. A free [Github](https://github.com/) account is required.
+- Finally, you prefer to work with your own full copy, fork our repository, make direct edits to the markdown files - or use an online tool like [prose.io](http://prose.io/) - and then issue a pull request. A free [Github](https://github.com/) account is required.
 
 ##Terms of Service
 
