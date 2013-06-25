@@ -47,8 +47,8 @@ h4 { font-size: 1em; }
 	float: right;
 }
 
-.next-page, .previous-page {
-	margin: 3em 0 2em 0;
+.next-page, .previous-page .edit-button {
+	margin: 1em 0 1em 0;
 }
 
 footer {
